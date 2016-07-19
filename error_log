@@ -1,0 +1,32 @@
+[12-Jun-2016 22:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
+[12-Jun-2016 22:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
+[12-Jun-2016 22:30:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/functions.php on line 3
+[12-Jun-2016 22:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/page.php on line 1
+[14-Jun-2016 23:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
+[14-Jun-2016 23:24:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
+[14-Jun-2016 23:24:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
+[14-Jun-2016 23:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/hairccwh/public_html/development/wp/scouting/wp-content/themes/scouttroop-m4h19P/index.php on line 1
