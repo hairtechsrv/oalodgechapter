@@ -4,7 +4,7 @@ Theme URI: http://hairtechsrv.com/scouts
 Author: Hair Technical Services
 Author URI: http://hairtechsrv.com/
 Description: A theme to allow an OA Lodge or Chapter an easy-to-manage website.  Official red and styling for almost any HTML markup.  The theme is responsive, so you will not need a mobile site, it will just render correctly.
-Version: 1.03
+Version: 1.04
 License: B.S.A. and O.A. owns the copyright to some included images and has registered trademarks that are included.  The author of the theme gives permission to any Troop, Council, Charter Organization or District of Boy Scouts of America or Lodge or Chapter of the Order of the Arrow to use all other parts of the theme.
 Text Domain: oalodgechapter
 
@@ -29,25 +29,6 @@ table {border-collapse:collapse;border-spacing:0;}
 	html {overflow-y: scroll;}
 }
 
-@font-face {
-	font-family:museo-sans;
-	src:url('fonts/MuseoSans300.eot');
-	src:url('fonts/MuseoSans300.eot?#iefix') format('embedded-opentype'),
-	url('fonts/MuseoSans300.woff2') format('woff2'),
-	url('fonts/MuseoSans300.woff') format('woff'),
-	url('fonts/MuseoSans300.ttf') format('ttf'),
-	url('fonts/MuseoSans300.svg#svgMuseoSans300') format('svg');
-}
-@font-face {
-	font-family:museo-slab;
-	src:url('fonts/MuseoSlab700.eot');
-	src:url('fonts/MuseoSlab700.eot?#iefix') format('embedded-opentype'),
-	url('fonts/MuseoSlab700.woff2') format('woff2'),
-	url('fonts/MuseoSlab700.woff') format('woff'),
-	url('fonts/MuseoSlab700.ttf') format('ttf'),
-	url('fonts/MuseoSlab700.svg#svgMuseoSans300') format('svg');
-}
-
 /* ------------------------------------------------------
    Main Page Divisions
 	 ------------------------------------------------------*/
@@ -55,7 +36,7 @@ body {
 	background-color: #fff; 
   font-size: 85%; 
 	line-height: 160%;
-	font-family: "museo-sans",sans-serif;
+	font-family: 'Gill Sans',sans-serif;
 	width: 100%;    
   color: #252525;
 }
@@ -76,7 +57,7 @@ header#page-header {
 	display: none;
 }
 #site-name {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 30px;
 	line-height: 100%;
 	margin-top:0;
@@ -258,7 +239,7 @@ footer form.search-form {
 
 /* -------------------- Headings --------------------*/
 h1,h2 {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 190%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
@@ -276,28 +257,28 @@ h1 + h2 {
 	font-size:180%;
 }
 h3 {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 170%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
 	color: #E51937;
 }
 h4 {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 150%;
 	line-height: 130%;
 	margin: 0 0 10px 0;
 	color: #E51937;
 }
 h5 {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 130%;
 	line-height: 130%;
 	margin: 0 0 7px 0;
 	color: #E2383F;
 }
 h6 {
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-size: 110%;
 	line-height: 130%;
 	margin: 0 0 5px 0;
@@ -420,7 +401,7 @@ blockquote {
 	padding: 10px;
 	font-size: 150%;
 	line-height: 120%;
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 	font-style: italic;
 }
 
@@ -483,7 +464,7 @@ blockquote {
 #wrapper var {
 	font-weight:bold;
 	font-style:italic;
-	font-family: "museo-slab",serif;
+	font-family: Rockwell,serif;
 }
 hr {
 	height: 1px;
