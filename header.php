@@ -31,14 +31,12 @@
 <header id="page-header">
 <div id="charter-box"><?php bloginfo( 'description' ); ?></div>
 <a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" 
-rel="home"><img id="mobile-logo" src="<?php echo get_template_directory_uri(); ?>/images/OA_Trademark_tiny.gif" alt="O.A. 
-Trademark" /><img id="fleurdelis" src="<?php echo get_template_directory_uri(); ?>/images/OA_Trademark_nobar.png" alt="O.A. 
-  Trademark" /></a><br/><p id="site-name"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" 
-rel="home"><?php bloginfo( 'name' ); ?></a></p>
-<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" 
-rel="home"><img id="brand" src="<?php echo get_template_directory_uri(); ?>/images/oa_brand.png" alt="Order of the Arrow"/></a>
+rel="home"><img id="fleurdelis" src="<?php echo get_template_directory_uri(); ?>/images/OA_Trademark_nobar.png" alt="O.A. 
+  Trademark" /><br><img id="mobile-logo" src="<?php echo get_template_directory_uri(); ?>/images/OA_Trademark_tiny.gif" alt="O.A. 
+Trademark" /></a><p id="site-name"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" 
+rel="home"><?php bloginfo( 'name' ); ?><br><img id="brand" src="<?php echo get_template_directory_uri(); ?>/images/oa_brand.png" alt="Order of the Arrow"/></a></p>
 </header>
-<br/>
+<br>
 <div  id="main-navigation">
 	<div class="menu-button">Menu</div>
 		<?php 
