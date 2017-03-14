@@ -102,7 +102,7 @@ add_filter("widget_categories_args","exclude_widget_categories");
 require 'theme-update-checker.php';
 $example_update_checker = new ThemeUpdateChecker(
     'oalodgechapter',
-    'http://hairtechsrv.com/wp-updates/oalodgechapter.json'
+    '//hairtechsrv.com/wp-updates/oalodgechapter.json'
 );
 
 ?>
